@@ -1,1 +1,0 @@
-# rei_Detector.v2i.yolov5pytorch
